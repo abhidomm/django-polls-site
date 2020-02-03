@@ -1,5 +1,5 @@
 {
-  "name": "mysite",
+  "name": "django-polls-site",
   "scripts": {
   },
   "env": {
